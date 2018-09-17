@@ -1,5 +1,8 @@
 _repo: Indian-Palmistry_52523
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52523-h/images/cover.jpg
 creator:
   author:
     agent_name: Dale, J. B., Mrs.
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46911'
     url: http://www.gutenberg.org/2009/agents/46911
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52523#Indian-Palmistry
 gutenberg_issued: '2016-07-08'
 gutenberg_type: Text
 identifiers:
